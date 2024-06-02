@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f33fed3c-68ae-47a6-bbd5-dffdd2a851cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenkins-demo/src/test/java/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins-demo/src/test/java/GoogleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f33fed3c-68ae-47a6-bbd5-dffdd2a851cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.GoogleTest.OpenSite.executor": "Run",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "19 (2)",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/abrah/Desktop/jenkins_demo/jenkins-demo",
     "project.structure.last.edited": "Modules",
